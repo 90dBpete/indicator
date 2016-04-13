@@ -1,5 +1,5 @@
 # indicator
-## Simple activity indicator for your webapp_
+## _Simple activity indicator for your webapp_
 
 ### Installation
 
